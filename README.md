@@ -36,4 +36,7 @@ query {
   }
 }
 
+###
+>- pip list
+>- pip freeze
 
