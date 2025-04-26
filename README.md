@@ -40,3 +40,9 @@ query {
 >- pip list
 >- pip freeze
 
+### probar tests unitarios
+>- python manage.py test
+>- python manage.py test apps.users.tests
+
+
+
